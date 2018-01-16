@@ -24,5 +24,13 @@ This project is devided in 3 separate parts:
 	- Mashup songs that has similar note patterns but cut and paste their sentences' block together
 	
 **DISCUSSION:**
+- A happy song usually has the following characteristics:
+	- Mostly major cords (C, D)
+	- Tempo > 60
+	- Happy song has a larger quantity of do, mi, sol
+- A sad song usually has the following characteristics:
+	- Most sad classical songs have a lot of black/white notes at the beginning, and/or 16th, 32nd, 64th note at the end
+	- Sad song have a lot more flat notes, or more legato for gentleness and smoothness.
+	- The mi-la-ti combination kinda signifies anguish/sadness many of the times
 
 **WORK LOGS:** *(please conform to the format: mm/dd/yy: what_did_you_do)*
