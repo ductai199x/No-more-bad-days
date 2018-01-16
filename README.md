@@ -23,6 +23,6 @@ This project is devided in 3 separate parts:
 	- Dectect sentences' block in songs by looking at rests
 	- Mashup songs that has similar note patterns but cut and paste their sentences' block together
 	
-DISCUSSION:
+**DISCUSSION:**
 
-WORK LOGS:
+**WORK LOGS:** *(please conform to the format: mm/dd/yy: what_did_you_do)*
