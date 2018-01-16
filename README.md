@@ -35,6 +35,6 @@ This project is devided in 3 separate parts:
 
 **WORK LOGS:** *(please conform to the format: mm/dd/yy:contributor: what_did_you_do)*
 
-**RESEARCH LINKS:** *(please conform to the format: #. summary: what_did_you_do)*
+**RESEARCH LINKS:** *(please conform to the format: #. summary: hyperlink)*
 1. What a happy song usually looks like: https://www.quora.com/What-makes-a-song-happy-or-sad
 2. The ultimate guide to musical keys vs emotion relationship: https://ledgernote.com/blog/lessons/musical-key-characteristics-emotions/
