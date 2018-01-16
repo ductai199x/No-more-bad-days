@@ -23,7 +23,7 @@ This project is devided in 3 separate parts:
 	- Dectect sentences' block in songs by looking at rests
 	- Mashup songs that has similar note patterns but cut and paste their sentences' block together
 	
-**DISCUSSION:**
+**DISCUSSION & RESEARCH:**
 - A happy song usually has the following characteristics:
 	- Mostly major cords (C, D)
 	- Tempo > 120 bpm
