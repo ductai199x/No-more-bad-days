@@ -7,9 +7,9 @@ You and I, we all struggle in one thing: Sometimes, it's incredibly hard to find
 EXECUTION STEPS:
 This project is devided in 3 separate parts:
 1. **Emotional Dectection:** *(algorithm is open for discussion)*
-	a. Through facial recognition
-	b. Through heart pulse's patterns recognition
-	c. Integration of the above methods for accurate emotional reading
+	- Through facial recognition
+	- Through heart pulse's patterns recognition
+	- Integration of the above methods for accurate emotional reading
 2. **Music Generation:** *(algorithm is open for discussion)*
 	a. Collect data from user's most favorite song (from metrics such as rating or frequency)
 	b. Recognize musical cords that user most likely love
