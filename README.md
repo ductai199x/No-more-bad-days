@@ -34,3 +34,7 @@ This project is devided in 3 separate parts:
 	- The mi-la-ti combination kinda signifies anguish/sadness many of the times
 
 **WORK LOGS:** *(please conform to the format: mm/dd/yy: what_did_you_do)*
+
+**RESEARCH LINKS:** *(please conform to the format: #. summary: what_did_you_do)*
+1. What a happy song usually looks like: https://www.quora.com/What-makes-a-song-happy-or-sad
+2. The ultimate guide to musical keys vs emotion relationship: https://ledgernote.com/blog/lessons/musical-key-characteristics-emotions/
