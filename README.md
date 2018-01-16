@@ -26,7 +26,7 @@ This project is devided in 3 separate parts:
 **DISCUSSION:**
 - A happy song usually has the following characteristics:
 	- Mostly major cords (C, D)
-	- Tempo > 60
+	- Tempo > 120 bpm
 	- Happy song has a much larger quantity of do, mi, sol
 - A sad song usually has the following characteristics:
 	- Most sad classical songs have a lot of black/white notes at the beginning, and/or 16th, 32nd, 64th note at the end
