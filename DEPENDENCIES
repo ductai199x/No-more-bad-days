@@ -1,2 +1,49 @@
-opencv
-tensorflow
+#!/bin/bash
+
+# pip or pip3
+# opencv
+# numpy
+# scipy
+# tkinter
+# matplotlib
+# g++
+# tensorflow
+# boost
+# dlib
+
+# Installing pip:
+sudo apt-get install python-pip		#install pip for python 2.7
+sudo apt-get install python3-pip	#install pip3 for python 3.x
+
+# Installing opencv:
+sudo pip opencv-python				#python 2.7
+
+# Installing numpy
+sudo pip install numpy				#python 2.7
+
+# Installing scipy
+sudo pip install scipy				#python 2.7
+
+# Installing tkinter
+sudo apt-get install python-tk		#python 2.7
+sudo apt-get install python3-tk		#python 3.x
+
+# Installing matplotlib
+sudo pip install matplotlib				#python 2.7
+
+# Installing boost:
+wget -O boost_1_60_0.tar.gz http://sourceforge.net/projects/boost/files/boost/1.60.0/boost_1_60_0.tar.gz/download
+tar xzvf boost_1_60_0.tar.gz
+cd boost_1_60_0/
+	#this will take some time
+sudo apt-get install build-essential g++ python-dev autotools-dev libicu-dev build-essential libbz2-dev libboost-all-dev
+./bootstrap.sh --prefix=/usr/local
+	#this will take some time
+sudo ./b2 install
+
+# Installing dlib:
+wget http://dlib.net/files/dlib-19.8.tar.bz2
+tar xzvf dlib-19.8.tar.bz2
+cd dlib-19.8/
+	#this will take some time
+sudo python setup.py install
