@@ -35,6 +35,7 @@ This project is devided in 3 separate parts:
 	- The mi-la-ti combination kinda signifies anguish/sadness many of the times
 
 **WORK LOGS:** *(please conform to the format: mm/dd/yy:contributor: what_did_you_do)*
+
 01/17/18:Tai Nguyen: upload the list and installing methos for the dependencies used in this project
 
 **RESEARCH LINKS:** *(please conform to the format: #. summary: hyperlink)*
