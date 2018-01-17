@@ -17,7 +17,7 @@ This project is devided in 3 separate parts:
 	- Collect data from user's most favorite song (from metrics such as rating or frequency)
 	- Recognize musical cords that user most likely love
 	- Compose a 2-minute-song that includes those cords
-	- Probably using tensorflow/deep learning and recurrent networks ?!?
+	- Probably using tensorflow/deep learning and (neural) recurrent networks ?!?
 3. **Song Mashup Generation:** *(algorithm is open for discussion)*
 	- Sample user's favorite songs into an array of data
 	- Detect note pattern inside songs (most frequently used note pattern)
