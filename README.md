@@ -34,6 +34,7 @@ This project is devided in 3 separate parts:
 	- Sad song have a lot more flat notes, or more legato for gentleness and smootfahness.
 	- The mi-la-ti combination kinda signifies anguish/sadness many of the times
 - Next step on the facial emotional detector is to use TENSORFLOWWWWWW with convolutional networks instead of just a few layers of trained classifiers
+- Heart rate -> Emotion, well, we need HRV (Heart Rate Variability - the variability of time between one heart beat and the next over extended amount of time) and, train this data with a neural network :D MORE TENSORFLOW?
 
 **WORK LOGS:** *(please conform to the format: mm/dd/yy:contributor: what_did_you_do)*  
 01/17/18:Tai Nguyen: upload the list and installing methods for the dependencies used in this project  
@@ -43,4 +44,5 @@ and empty testset, update list of dependencies for MIDI and some music processin
 **RESEARCH LINKS:** *(please conform to the format: #. summary: hyperlink)*
 1. What a happy song usually looks like: https://www.quora.com/What-makes-a-song-happy-or-sad
 2. The ultimate guide to musical keys vs emotion relationship: https://ledgernote.com/blog/lessons/musical-key-characteristics-emotions/
-3. stuff for saving trained classifier: https://stackoverflow.com/questions/10592605/save-classifier-to-disk-in-scikit-learn
+3. Stuff for saving trained classifier: https://stackoverflow.com/questions/10592605/save-classifier-to-disk-in-scikit-learn
+4. Heart Rate Variability? https://www.psychologytoday.com/blog/sweet-emotion/201406/what-is-heart-rate-variability-and-why-does-it-matter
