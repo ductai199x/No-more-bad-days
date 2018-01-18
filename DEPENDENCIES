@@ -25,6 +25,9 @@ sudo apt-get install libasound2-dev
 #
 sudo apt-get install libjack-dev
 
+# Timidity to play MIDI files
+sudo apt-get install timidity timidity-interfaces-extra
+
 # Installing python-midi library
 sudo pip install git+https://github.com/vishnubob/python-midi@feature/python3
 sudo pip3 install git+https://github.com/vishnubob/python-midi@feature/python3
