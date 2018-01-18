@@ -43,3 +43,4 @@ and empty testset
 **RESEARCH LINKS:** *(please conform to the format: #. summary: hyperlink)*
 1. What a happy song usually looks like: https://www.quora.com/What-makes-a-song-happy-or-sad
 2. The ultimate guide to musical keys vs emotion relationship: https://ledgernote.com/blog/lessons/musical-key-characteristics-emotions/
+3. stuff for saving trained classifier: https://stackoverflow.com/questions/10592605/save-classifier-to-disk-in-scikit-learn
