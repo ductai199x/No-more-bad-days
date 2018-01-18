@@ -11,6 +11,24 @@
 # boost
 # dlib
 
+# Life-saving:
+sudo apt-get install apt-file
+sudo apt-file update
+# Use apt-file to search for any missing library/package
+
+#
+sudo pip install python-rtmidi
+
+#
+sudo apt-get install libasound2-dev
+
+#
+sudo apt-get install libjack-dev
+
+# Installing python-midi library
+sudo pip install git+https://github.com/vishnubob/python-midi@feature/python3
+sudo pip3 install git+https://github.com/vishnubob/python-midi@feature/python3
+
 # Installing pip:
 sudo apt-get install python-pip		#install pip for python 2.7
 sudo apt-get install python3-pip	#install pip3 for python 3.x
