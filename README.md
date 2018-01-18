@@ -34,11 +34,10 @@ This project is devided in 3 separate parts:
 	- Sad song have a lot more flat notes, or more legato for gentleness and smoothness.
 	- The mi-la-ti combination kinda signifies anguish/sadness many of the times
 
-**WORK LOGS:** *(please conform to the format: mm/dd/yy:contributor: what_did_you_do)*
-
-01/17/18:Tai Nguyen: upload the list and installing methos for the dependencies used in this project
+**WORK LOGS:** *(please conform to the format: mm/dd/yy:contributor: what_did_you_do)*  
+01/17/18:Tai Nguyen: upload the list and installing methos for the dependencies used in this project  
 01/18/18:Tai Nguyen: completed algorithm for facial emotional dectector, uploaded to repo with dataset 
-and empty testset
+and empty testset  
 
 **RESEARCH LINKS:** *(please conform to the format: #. summary: hyperlink)*
 1. What a happy song usually looks like: https://www.quora.com/What-makes-a-song-happy-or-sad
