@@ -31,8 +31,9 @@ This project is devided in 3 separate parts:
 	- Happy song has a much larger quantity of do, mi, sol
 - A sad song usually has the following characteristics:
 	- Most sad classical songs have a lot of black/white notes at the beginning, and/or 16th, 32nd, 64th note at the end
-	- Sad song have a lot more flat notes, or more legato for gentleness and smoothness.
+	- Sad song have a lot more flat notes, or more legato for gentleness and smootfahness.
 	- The mi-la-ti combination kinda signifies anguish/sadness many of the times
+- Next step on the facial emotional detector is to use TENSORFLOWWWWWW with convolutional networks instead of just a few layers of trained classifiers
 
 **WORK LOGS:** *(please conform to the format: mm/dd/yy:contributor: what_did_you_do)*  
 01/17/18:Tai Nguyen: upload the list and installing methos for the dependencies used in this project  
