@@ -1,6 +1,8 @@
 # No-more-bad-days
 
-A device that helps with depression by playing the auto-generated songs, trained by the data set of all the songs you love
+A device that helps with depression by playing the auto-generated songs, trained by the data set of all the songs you love  
+
+***OPTIMISTIC GOAL THIS WEEK: Finish the code structure for the algorithm that generates a mashup of songs
 
 **IDEA:**
 
@@ -45,6 +47,8 @@ This project is devided in 3 separate parts:
 01/17/18:Tai Nguyen: upload the list and installing methods for the dependencies used in this project  
 01/18/18:Tai Nguyen: completed algorithm for facial emotional dectector, uploaded to repo with dataset 
 and empty testset, update list of dependencies for MIDI and some music processing library  
+01/19/18:Hoang Nguyen: came up with an algorithm to generate a mashup of songs  
+01/19/18:Tai Nguyen: uploaded the code for simple music generation in tensorflow and figured out how to loop through the notes in a .midi music file.
 
 **RESEARCH LINKS:** *(please conform to the format: #. summary: hyperlink)*
 1. What a happy song usually looks like: https://www.quora.com/What-makes-a-song-happy-or-sad
