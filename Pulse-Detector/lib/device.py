@@ -22,9 +22,9 @@ class Camera(object):
 
     def __init__(self, camera = 0):
         self.cam = cv2.VideoCapture(camera)
-        self.valid = False
+        self.valid = True
         try:
-            resp = self.cam.read()
+            _,resp = self.cam.read()
             self.shape = resp[1].shape
             self.valid = True
         except:
