@@ -23,6 +23,10 @@ This project is devided in 3 separate parts:
 	- Detect note pattern inside songs (most frequently used note pattern)
 	- Dectect sentences' block in songs by looking at rests
 	- Mashup songs that has similar note patterns but cut and paste their sentences' block together
+4. Theoretical Approach to Mashup:
+	- Find the simple back ground project loop of pitch variating combination of notes
+	- Find the lead note and generate the relationship between the vocal/main notes and the background notes.
+	- Generate mashup based on the songs with exact same background combinations by separating a portion of this song main vocal and the next one's main vocal by the background music
 	
 **DISCUSSION & RESEARCH:**
 - A happy song usually has the following characteristics:
