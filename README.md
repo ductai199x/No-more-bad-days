@@ -56,3 +56,4 @@ and empty testset, update list of dependencies for MIDI and some music processin
 2. The ultimate guide to musical keys vs emotion relationship: https://ledgernote.com/blog/lessons/musical-key-characteristics-emotions/
 3. Stuff for saving trained classifier: https://stackoverflow.com/questions/10592605/save-classifier-to-disk-in-scikit-learn
 4. Heart Rate Variability? https://www.psychologytoday.com/blog/sweet-emotion/201406/what-is-heart-rate-variability-and-why-does-it-matter
+5. MIT's Music21 library? http://web.mit.edu/music21/doc/
