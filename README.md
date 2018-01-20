@@ -30,6 +30,7 @@ This project is devided in 3 separate parts:
 	- Find the simple back ground project loop of pitch variating combination of notes
 	- Find the lead note and generate the relationship between the vocal/main notes and the background notes.
 	- Generate mashup based on the songs with exact same background combinations by separating a portion of this song main vocal and the next one's main vocal by the background music
+	- Find algorithm based on first 3 note and their repeate in a block of notes to define that own block.
 	
 **DISCUSSION & RESEARCH:**
 - A happy song usually has the following characteristics:
