@@ -2,7 +2,8 @@
 
 A device that helps with depression by playing the auto-generated songs, trained by the data set of all the songs you love  
 
-***OPTIMISTIC GOAL THIS WEEK: Finish the code structure for the algorithm that generates a mashup of songs
+***OPTIMISTIC GOAL THIS WEEK: Finish the code structure for the algorithm that generates a mashup of songs***  
+
 
 **IDEA:**
 
