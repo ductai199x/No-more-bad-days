@@ -46,12 +46,12 @@ This project is devided in 3 separate parts:
 
 **WORK LOGS:** *(please conform to the format: mm/dd/yy:contributor: what_did_you_do)*  
 
-01/17/18:Tai Nguyen: upload the list and installing methods for the dependencies used in this project  
-01/18/18:Tai Nguyen: completed algorithm for facial emotional dectector, uploaded to repo with dataset 
-and empty testset, update list of dependencies for MIDI and some music processing library  
-01/19/18:Hoang Nguyen: came up with an algorithm to generate a mashup of songs  
-01/20/18:Tai Nguyen: uploaded the code for simple music generation in tensorflow and figured out how to loop through the notes in a .midi music file.  
-01/21/18:Tai Nguyen: finished writing the code for the algorithm to find the "left-hand-patterns" of notes in songs. Going to use this to generate snip of music by correlating the left-hand-patterns with the right-hand notes at 4:31 am LMAO  
+01/17/18:*Tai Nguyen*: **upload the list and installing methods for the dependencies used in this project**  
+01/18/18:*Tai Nguyen*: **completed algorithm for facial emotional dectector, uploaded to repo with dataset 
+and empty testset, update list of dependencies for MIDI and some music processing library**  
+01/19/18:*Hoang Nguyen*: **came up with an algorithm to generate a mashup of songs**  
+01/20/18:*Tai Nguyen*: **uploaded the code for simple music generation in tensorflow and figured out how to loop through the notes in a .midi music file**  
+01/21/18:*Tai Nguyen*: **finished writing the code for the algorithm to find the "left-hand-patterns" of notes in songs. Going to use this to generate snip of music by correlating the left-hand-patterns with the right-hand notes at 4:31 am LMAO**  
 
 
 **RESEARCH LINKS:** *(please conform to the format: #. summary: hyperlink)*
