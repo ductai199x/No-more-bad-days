@@ -1,7 +1,7 @@
 from music21 import *
 import glob
 
-# Set the environment, path to midi player and path to xml music sheet viewer
+# Set the environment, path to midi player and path to xml music sheet viewer if you use linux
 # Also, go to file subConverter.py in the music21 library (probably in python-dir/Lib/site(dist)-packages/music21),
 # line 183, delete "None" in "app=None"
 # environment.set('midiPath', '/usr/bin/timidity')
